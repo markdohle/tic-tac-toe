@@ -20,3 +20,13 @@ You'll apply these concepts in the creation of another game (of your choosing) i
 [65 React Games](https://react.rocks/tag/Game)
 
 [Creating your First Game With React](https://javascript.plainenglish.io/reactjs-training-creating-your-first-game-with-react-and-typescript-162f56b75e78)
+
+# Roadmap of Future Implement Improvements
+
+1. Input box to place players names. Then direct the DOM to tell the user who's turn it is.
+
+2. A check for errors. If a square has been selected, then the onClick event should not fire. If there is a winner, then the Square onClick should not fire.
+
+3. AutoRestart when a winner or draw is decided.
+
+4. A score card that keeps track of the score between two players.
